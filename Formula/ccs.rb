@@ -1,8 +1,8 @@
 class Ccs < Formula
   desc "Tiny Claude Code provider switcher"
   homepage "https://github.com/Ike-li/ccs"
-  url "https://github.com/Ike-li/ccs/releases/download/v0.6.0/ccs-v0.6.0.tar.gz"
-  sha256 "a71a0f0be4eff7d877cf536720ff97fa0c2d82d7b624e75f539f54460a4a5e4c"
+  url "https://github.com/Ike-li/ccs/releases/download/v0.6.1/ccs-v0.6.1.tar.gz"
+  sha256 "8e9b5b1569f6b48992f4ebc559ba8e5415451022c20385a845f8106199ff37ec"
   license "GPL-3.0-only"
 
   def install
